@@ -1,0 +1,9 @@
+1. set args
+2. break(b)
+3. next(n)
+4. step(s)
+5. continue(c)
+6. print 1 + 2(p 1 + 2)
+7. display(disp)
+8. info locals(显示局部变量) || info args(显示当前函数参数)
+9. quit(q)
