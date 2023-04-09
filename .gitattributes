@@ -4,4 +4,7 @@
 *.s text eol=lf
 *.sh text eol=lf
 *.txt text eol=lf
+*.csh text eol=lf
+*.txt text eol=lf
+*.ppm text eol=lf
 Makefile text eol=lf
